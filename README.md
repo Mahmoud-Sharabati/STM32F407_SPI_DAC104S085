@@ -2,10 +2,10 @@
 Repo for test the Texas Instrument SPI DAC "DAC104S085" with STM32F407VG
 ## The code have the DAC function: Write_DAC104S085 (uint8_t channel, uint8_t mode, unsigned short value)
 ### uint8_t channel: is the DAC channel number. The channels are divided as following
-Channel A: 0
-Channel B: 1
-Channel C: 2
-Channel D: 3
+>Channel A: 0
+>Channel B: 1
+>Channel C: 2
+>Channel D: 3
 ### uint8_t mode: is the DAC mode of operation. The mode of operation is divided as following
 0: Write to specified register but do not update outputs.
 1: Write to specified register and update outputs.
