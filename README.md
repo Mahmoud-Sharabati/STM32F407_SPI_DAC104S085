@@ -1,5 +1,5 @@
 # STM32F407_SPI_DAC104S085
-Repo for test the Texas Instrument SPI DAC "DAC104S085" with STM32F407VG
+Repo for test the Texas Instrument SPI DAC "DAC104S085" with STM32F407VG.  
 **This code is written to inteface an external SPI DAC104S085 with the STM32F407 Disco board.  
 https://www.ti.com/lit/ds/symlink/dac104s085.pdf?ts=1647181403924&ref_url=https%253A%252F%252Fwww.google.com%252F
 
